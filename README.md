@@ -1,12 +1,4 @@
-![m png](https://user-images.githubusercontent.com/92738911/204074457-0a012b86-75b8-47d4-b887-f481c9d9ae4a.png)
-![m1 png](https://user-images.githubusercontent.com/92738911/204074473-09e6535f-17c2-4341-a217-8ef1dd82d189.png)
-![m2 png](https://user-images.githubusercontent.com/92738911/204074475-81cf0661-65a4-4ef7-8ced-071c905aeea9.png)
-![m3 png](https://user-images.githubusercontent.com/92738911/204074476-70276abf-59c0-4396-9240-fe5570d92a93.png)
-![m4 png](https://user-images.githubusercontent.com/92738911/204074477-ca196642-e56c-4969-8ccd-b70b75f0cdfe.png)
-![m1 png](https://user-images.githubusercontent.com/92738911/204074484-c015f015-fdb0-421f-a9b7-9dc006d88d4d.png)
-![m2 png](https://user-images.githubusercontent.com/92738911/204074485-f0de4551-93ff-477f-83f3-05a382bb163b.png)
-![m3 png](https://user-images.githubusercontent.com/92738911/204074486-b7c818a2-6e1d-4a5c-97d0-5bb844143704.png)
-![m4 png](https://user-images.githubusercontent.com/92738911/204074487-cff5a19c-19a4-47ce-9c8d-514d8d1031e0.png)
+
 # Lab7Web
 
 # TUGAS 7
@@ -69,4 +61,10 @@
 ![gambar22](im/j.png.png)
 ![gambar23](im/j1.png.png)
 
+## TUGAS
 
+![gambar24](im/m.png.png)
+![gambar25](im/m1.png.png)
+![gambar26](im/m2.png.png)
+![gambar27](im/m3.png.png)
+![gambar28](im/m4.png.png)
